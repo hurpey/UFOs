@@ -9,7 +9,7 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 Below is a walkthrough of how the search feature on the new webpage can be used, including images showing this process.
 
-First step is to visit the webpage - <a href = "https://hurpey.github.io."> https://ufos.gov  </a>  . This should bring you to the main webpage shown in image below.
+First step is to visit the webpage - <a href = "https://hurpey.github.io."> <code> https://ufos.gov </code>  </a>  . This should bring you to the main webpage shown in image below.
 
 
 ![image](https://user-images.githubusercontent.com/79670933/118426098-8eae3d80-b698-11eb-94ce-adca5c39717c.png)
