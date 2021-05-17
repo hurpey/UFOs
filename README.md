@@ -4,6 +4,7 @@
 
 The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Various table filters and search criteria such as date, city, state, country, and shape, have been added, to improve the performance of the webpage for users.
 
+
 2.	Result
 
 Below is a walkthrough of how the search feature on the new webpage can be used, including images showing this process.
@@ -38,7 +39,7 @@ To filter using a new search criterion, you can reset the data by clicking on th
 
 One draw back of this new design is the inability to select from a list of options for each filter search criteria. The search criteria have to be typed in for every new search and a spelling mistake for instance, will return a search error.
 
-Recommendations:
+_Recommendations:_
 
 a.	We can include a dropdown list for each search criteria so users can easily select from. This will enhance performance of the search feature and eliminate any errors in data inputted.
 
